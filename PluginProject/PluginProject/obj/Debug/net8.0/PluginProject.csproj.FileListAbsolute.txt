@@ -1,0 +1,14 @@
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\obj\Debug\net8.0\PluginProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\obj\Debug\net8.0\PluginProject.AssemblyInfoInputs.cache
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\obj\Debug\net8.0\PluginProject.AssemblyInfo.cs
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\obj\Debug\net8.0\PluginProject.csproj.CoreCompileInputs.cache
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\bin\Debug\net8.0\PluginProject.exe
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\bin\Debug\net8.0\PluginProject.deps.json
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\bin\Debug\net8.0\PluginProject.runtimeconfig.json
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\bin\Debug\net8.0\PluginProject.dll
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\bin\Debug\net8.0\PluginProject.pdb
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\obj\Debug\net8.0\PluginProject.dll
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\obj\Debug\net8.0\refint\PluginProject.dll
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\obj\Debug\net8.0\PluginProject.pdb
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\obj\Debug\net8.0\PluginProject.genruntimeconfig.cache
+C:\Users\atmpr\source\repos\PluginProject\PluginProject\obj\Debug\net8.0\ref\PluginProject.dll
